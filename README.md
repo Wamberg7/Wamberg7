@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo PHP<br>🎯 Objetivos: Em busca de aprendizagem contínua e novos desafios<br>🎲 Curiosidade:Apaixonado por desenvolvimento e tecnologia</p>
+<p align="left">📚 Atualmente estou aprendendo PHP <br>🎯 Objetivos: Em busca de aprendizagem contínua e novos desafios<br>🎲 Curiosidade: Apaixonado por desenvolvimento e tecnologia</p>
 
 ###
 
