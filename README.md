@@ -2,19 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Wamberg e eu sou um Estudante de Engenharia de Software na UDF</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">📚 Atualmente estou aprendendo PHP <br>🎯 Objetivos: Em busca de aprendizagem contínua e novos desafios<br>🎲 Curiosidade: Apaixonado por desenvolvimento e tecnologia</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<p align="left">Meu nome é Wamberg e eu sou um Estudante de Engenharia de Software na UDF<br><br>Sobre mim</p>
 
 ###
 
@@ -32,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
+###
 
 <img src="https://raw.githubusercontent.com/Wamberg7/Wamberg7/output/snake.svg" alt="Snake animation" />
 
