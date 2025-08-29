@@ -33,5 +33,6 @@
 </div>
 
 
-###
 <img src="https://raw.githubusercontent.com/Wamberg7/Wamberg7/output/snake.svg" alt="Snake animation" />
+
+###
